@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+
+        "lib": ["ESNext"],
+        "target": "ES2021"
+    }
+}
