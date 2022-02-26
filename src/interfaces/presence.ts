@@ -9,6 +9,7 @@ export interface PresencePayload {
     largeImageKey?: string | undefined;
     largeImageText?: string | undefined;
     smallImageKey?: string | undefined;
+    smallImageText?: string | undefined;
     partyId?: string | undefined;
     partySize?: number | undefined;
     partyMax?: number | undefined;
